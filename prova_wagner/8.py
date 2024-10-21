@@ -1,4 +1,4 @@
-#Na prova apesar de eu ter colocado os intervalos corretos, era possível reescrever o codigo como segue abaixo.
+#Na prova, apesar de eu ter colocado os intervalos corretos, era possível reescrever o codigo como segue abaixo.
 
 peso = float(input("Informe o peso em KG: "))
 Altura = float(input("Informe a altura em metros: "))
